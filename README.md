@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CarolinaRosas
-- 👀 I’m interested in Computer Science!
-- 🌱 I’m currently learning HTML
+Welcome! 
+I’m @CarolinaRosas and I enjoy Computer Science. 
+I am currently learning how to work with unity.
 
 
 <!---
